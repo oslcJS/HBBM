@@ -20,26 +20,26 @@ Lightweight Paper plugin for hiding join and quit broadcast messages.
 ## overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/overview.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/overview.gif" width="720">
 </p>
 
-HBBM removes default join and quit chat broadcasts for cleaner servers and hubs.
+HBBM suppresses default Minecraft join and quit broadcast messages.
 
-Designed to stay lightweight, silent, and out of the way.
+Built for hubs, minimal servers, and clean chat environments.
 
 ## features
 
 - hides join messages
 - hides quit messages
-- no config required
 - lightweight
+- no configuration
 - no dependencies
-- plug-and-play
+- silent operation
 
 ## compatibility
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/compatibility.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/compatibility.gif" width="720">
 </p>
 
 - Paper
@@ -53,7 +53,7 @@ Player joined the game
 Player left the game
 ```
 
-Both messages are suppressed automatically.
+Both broadcasts are removed automatically.
 
 ## build
 
@@ -68,7 +68,5 @@ build/libs
 ## license
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/license.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/license.gif" width="720">
 </p>
-
-MIT
