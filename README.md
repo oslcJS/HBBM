@@ -20,7 +20,7 @@ Lightweight Paper plugin for hiding join and quit broadcast messages.
 ## overview
 
 <p align="center">
-  <img src="assets/overview.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/overview.gif" width="100%">
 </p>
 
 HBBM removes default join and quit chat broadcasts for cleaner servers and hubs.
@@ -39,7 +39,7 @@ Designed to stay lightweight, silent, and out of the way.
 ## compatibility
 
 <p align="center">
-  <img src="assets/compatibility.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/compatibility.gif" width="100%">
 </p>
 
 - Paper
@@ -68,7 +68,7 @@ build/libs
 ## license
 
 <p align="center">
-  <img src="assets/license.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/license.gif" width="100%">
 </p>
 
 MIT
