@@ -1,29 +1,23 @@
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/VAULT.gif" width="140">
 </p>
 
-<h1 align="center">HBBM</h1>
+# HBBM
 
-<p align="center">
 Lightweight Paper plugin for hiding join and quit broadcast messages.
-</p>
 
 ---
 
-<p align="center">
-  <span style="font-family: 'IBM Plex Mono', monospace; font-style: italic; border: 1px solid #1c1c1c; padding: 6px 10px; color: #555; background: #000;">
-    status <span style="color:#222;">/</span>
-    <span style="color:#fff; font-weight:600;">stable</span>
-  </span>
-</p>
+<span style="font-family: 'IBM Plex Mono', monospace; font-style: italic; border: 1px solid #1c1c1c; padding: 6px 10px; color: #555; background: #000;">
+status <span style="color:#222;">/</span>
+<span style="color:#fff; font-weight:600;">stable</span>
+</span>
 
 ---
 
 ## overview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/1.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/1.gif)
 
 Removes default join and quit messages for a clean chat experience.
 
@@ -31,9 +25,7 @@ Removes default join and quit messages for a clean chat experience.
 
 ## features
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/2.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/2.gif)
 
 - hides join messages  
 - hides quit messages  
@@ -45,9 +37,7 @@ Removes default join and quit messages for a clean chat experience.
 
 ## compatibility
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/3.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/3.gif)
 
 - Paper  
 - Spigot  
@@ -57,9 +47,7 @@ Removes default join and quit messages for a clean chat experience.
 
 ## installs
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/4.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/4.gif)
 
 Drop the plugin jar into `/plugins` and restart your server.
 
@@ -67,9 +55,7 @@ Drop the plugin jar into `/plugins` and restart your server.
 
 ## configs
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/5.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/5.gif)
 
 No configuration required.
 
@@ -77,56 +63,46 @@ No configuration required.
 
 ## plugins
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/7.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/7.gif)
 
-Works alongside other Paper/Spigot plugins without conflicts.
+Works alongside other server plugins without issues.
 
 ---
 
 ## support
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/8.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/8.gif)
 
-Compatible with most modern server setups.
+Compatible with most modern setups.
 
 ---
 
 ## backend
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/9.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/9.gif)
 
-Minimal backend footprint, no persistent tasks.
+Minimal backend overhead, no persistent tasks.
 
 ---
 
 ## modules
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/11.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/11.gif)
 
-Core module-based structure for message filtering.
+Lightweight modular message filtering system.
 
 ---
 
 ## minecraft
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/12.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/12.gif)
 
-Designed specifically for Minecraft server environments.
+Built specifically for Minecraft servers.
 
 ---
 
 ## license
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/6.gif">
-</p>
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/6.gif)
+
+MIT
