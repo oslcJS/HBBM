@@ -1,17 +1,21 @@
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/VAULT.gif" width="140">
 </p>
 
-# HBBM
+<h1 align="center">HBBM</h1>
 
+<p align="center">
 Lightweight Paper plugin for hiding join and quit broadcast messages.
+</p>
 
 ---
 
-<span style="font-family: 'IBM Plex Mono', monospace; font-style: italic; border: 1px solid #1c1c1c; padding: 6px 10px; color: #555; background: #000;">
-status <span style="color:#222;">/</span>
-<span style="color:#fff; font-weight:600;">stable</span>
-</span>
+<p align="center">
+  <span style="font-family: 'IBM Plex Mono', monospace; font-style: italic; border: 1px solid #1c1c1c; padding: 6px 10px; color: #555; background: #000;">
+    status <span style="color:#222;">/</span>
+    <span style="color:#fff; font-weight:600;">stable</span>
+  </span>
+</p>
 
 ---
 
@@ -19,7 +23,7 @@ status <span style="color:#222;">/</span>
 
 ![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/1.gif)
 
-Removes default join and quit messages for a clean chat experience.
+Removes default join and quit broadcast messages for a clean chat experience.
 
 ---
 
@@ -65,7 +69,7 @@ No configuration required.
 
 ![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/7.gif)
 
-Works alongside other server plugins without issues.
+Works alongside other plugins without conflicts.
 
 ---
 
@@ -73,7 +77,7 @@ Works alongside other server plugins without issues.
 
 ![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/8.gif)
 
-Compatible with most modern setups.
+Compatible with modern server setups.
 
 ---
 
@@ -81,7 +85,7 @@ Compatible with most modern setups.
 
 ![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/9.gif)
 
-Minimal backend overhead, no persistent tasks.
+Minimal backend footprint, no persistent tasks.
 
 ---
 
@@ -89,7 +93,7 @@ Minimal backend overhead, no persistent tasks.
 
 ![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/11.gif)
 
-Lightweight modular message filtering system.
+Core modular message filtering system.
 
 ---
 
