@@ -20,53 +20,53 @@ Lightweight Paper plugin for hiding join and quit broadcast messages.
 ## overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/overview.gif" width="720">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/1.gif" width="720">
 </p>
 
-HBBM suppresses default Minecraft join and quit broadcast messages.
-
-Built for hubs, minimal servers, and clean chat environments.
+HBBM removes default Minecraft join and quit broadcast messages for a cleaner chat experience.
 
 ## features
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/2.gif" width="720">
+</p>
 
 - hides join messages
 - hides quit messages
 - lightweight
-- no configuration
 - no dependencies
 - silent operation
 
 ## compatibility
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/compatibility.gif" width="720">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/3.gif" width="720">
 </p>
 
 - Paper
 - Spigot
 - Purpur
 
-## behavior
+## installs
 
-```txt
-Player joined the game
-Player left the game
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/4.gif" width="720">
+</p>
 
-Both broadcasts are removed automatically.
+Drop the plugin into your server plugins folder and restart.
 
-## build
+## configs
 
-```bash
-./gradlew build
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/5.gif" width="720">
+</p>
 
-```txt
-build/libs
-```
+No configuration required.
 
 ## license
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/license.gif" width="720">
+  <img src="https://raw.githubusercontent.com/oslcJS/.github/main/assets/6.gif" width="720">
 </p>
+
+MIT
